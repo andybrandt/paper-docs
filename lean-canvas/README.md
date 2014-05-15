@@ -1,8 +1,8 @@
-# Rod's Lean Canvas Template
+# Andy's Lean Canvas Template
 
 The Lean Canvas template is a worksheet for capturing and exploring early-stage business or product concepts.  The template is based on a methodology elaborated by Ash Maurya [in his blog](http://www.ashmaurya.com/2012/02/why-lean-canvas/) and in his book entitled *[Running Lean](http://www.runningleanhq.com/)*.  Ash's Lean Canvas is in turn based on [the Business Model Canvas](http://www.businessmodelgeneration.com/canvas) as described in the book *[Business Model Generation](http://www.businessmodelgeneration.com/book)* developed by [Alex Osterwalder](http://www.businessmodelalchemist.com/) et al.  
 
-*Copyright (c) 2012. Designed by Rod Waldhoff, based on work by Ash Maurya and the Business Model Foundry, and released under the [Creative Commons Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0)](http://creativecommons.org/licenses/by-sa/3.0/).* 
+* 2014 Polish A4 version by Andy Brandt, original designed by Rod Waldhoff, based on work by Ash Maurya and the Business Model Foundry, and released under the [Creative Commons Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0)](http://creativecommons.org/licenses/by-sa/3.0/).* 
 
 ## Files
 
